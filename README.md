@@ -19,12 +19,12 @@ To install, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/teju-chowdary/anon-ecommerce-website.git
+sudo git clone https://github.com/teju-chowdary/ECommerce-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/teju-chowdary/anon-ecommerce-website.git
+git clone https://github.com/teju-chowdary/ECommerce-Website.git
 ```
  
